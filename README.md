@@ -1,3 +1,15 @@
+
+//Get you API KEY from ---->  http://omdbapi.com/apikey.aspx
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
