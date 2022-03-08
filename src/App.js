@@ -9,7 +9,7 @@ import MovieCard from './MovieCard';
 
 
 //Get you API KEY from ---->  http://omdbapi.com/apikey.aspx
-const API_URL = 'http://www.omdbapi.com/?i=tt3896198&apikey=cd9a8fb4';
+const API_URL = 'http://www.omdbapi.com/?i=XXXXXXXXXXXXXXXXXXXX';
 
 //test Object
 // const movieObjectTest = {
